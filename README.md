@@ -1,2 +1,4 @@
-# azure-functions-mucking-around
-Azure Functions - with Powershell
+{
+This is a README file
+[![Super-Linter](https://github.com/azure-functions-mucking-around/{each.value.name}/actions/workflows/<WORKFLOW_FILE_NAME>/badge.svg)](https://github.com/marketplace/actions/super-linter)
+}
